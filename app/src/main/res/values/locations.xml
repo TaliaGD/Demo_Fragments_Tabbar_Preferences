@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Locations">
+        <item>Anderlecht</item>
+        <item>Meulenbeek</item>
+        <item>Schaerbeek</item>
+        <item>Vlezenbeek</item>
+    </string-array>
+
+</resources>

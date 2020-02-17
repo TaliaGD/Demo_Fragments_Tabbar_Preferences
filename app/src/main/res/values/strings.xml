@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tabpas bar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_tv_info_title">Info</string>
+    <string name="str_tv_order_title">Place order</string>
+    <string name="str_btn_order">Confirm</string>
+    <string name="pref_title_notifications">Receive notifications?</string>
+    <string name="pref_notifications" />
+    <string name="pref_title_location">Location</string>
+    <string name="pref_location">pref_location</string>
+
+</resources>
